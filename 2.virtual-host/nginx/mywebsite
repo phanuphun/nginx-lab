@@ -1,0 +1,8 @@
+# /etc/nginx/sites-available/mywebsite
+
+server {
+    listen 80;
+    server_name mywebsite.com;
+    root /var/www/mywebsite;
+    index index.html;
+}
