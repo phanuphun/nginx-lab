@@ -1,5 +1,5 @@
 
-## Serving Static HTML
+## Lab 1 Server Static file
 - Run `apt install nginx` to install nginx and then use `service nginx status` to check if not running use `service nginx start`
 - Run `cd var/www/html` go to serve directory
 - Run `nano index.html` and add some context to file
